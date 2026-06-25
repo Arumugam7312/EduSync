@@ -1,0 +1,6 @@
+{
+  "name": "EduSync",
+  "description": "An enterprise-grade School Management System featuring role-based dashboards, academic management, and communication portals.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
